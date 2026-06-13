@@ -4,9 +4,26 @@ This repository contains Tableau practice dashboards created data visualisation 
 ## Objectives 
 Learn Tableau fundamentals
 Analyse datasets
-create interactive dashboards
+create interactive dashboard
+
+#Tableau Project
+## Sales Dashboard-1
+https://public.tableau.com/app/profile/utsav.kumar6659/viz/SalesDashboard1_17812699645190/Sheet1
+## Sales Dashboard-2
+https://public.tableau.com/app/profile/utsav.kumar6659/viz/SalesDashboard2_17812684015140/Sheet2
+## Sales Dashboard-3
+https://public.tableau.com/app/profile/utsav.kumar6659/viz/SalesDashboard3_17812684484290/Sheet3
+
+## Sales Dashboard-4
+https://public.tableau.com/app/profile/utsav.kumar6659/viz/SalesDashboard4_17812684930590/Sheet4
+## Sales Dashboard-5
+https://public.tableau.com/app/profile/utsav.kumar6659/viz/SalesDashboard5_17812685769320/Sheet5
+## Sales Dashboard-6
+https://public.tableau.com/app/profile/utsav.kumar6659/viz/SalesDashboard5_17812688921560/Sheet
+
 ## Tools used 
 Tableau Desktop
+Tableau Public
 ## Learning outcomes
 Data cleaning
 Data visualisation
